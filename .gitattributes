@@ -1,6 +1,8 @@
 * text=auto
 *.css text eol=lf
 *.html text eol=lf
+*.js text eol=lf
 *.md text eol=lf
+*.png binary
 *.yml text eol=lf
 CNAME text eol=lf
